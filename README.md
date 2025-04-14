@@ -5,6 +5,7 @@ I am a full-time student at PPSC (AAS: Cybersecurity). My interests include comp
 
 ## My Certifications:
 * ISC2 Certified in Cybersecurity (CC)
+* Pearson IT Specialist Python
 
 ## 🎁 I'm currently working on:
 * Qualys Vulnerability Management              (No expected date)
